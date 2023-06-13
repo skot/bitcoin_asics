@@ -1,2 +1,2 @@
-# bitcoin_asics
-Information about bitcoin mining ASICs (chips)
+# Bitcoin ASICs
+Collecting information about Bitcoin mining ASICs. Check the Wiki!
